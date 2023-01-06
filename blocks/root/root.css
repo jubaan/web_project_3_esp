@@ -1,0 +1,13 @@
+:root {
+  --primary-color: #2a2c2f;
+  --text-color: #ffffff;
+  --button-color: #0278fe;
+  --button-hover-color: #0063d2;
+  --background-image-color: #c4c4c4;
+  --text-font: "Inter", sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
