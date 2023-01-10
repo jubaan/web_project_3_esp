@@ -4,3 +4,15 @@
   grid-template-rows: auto;
   gap: 12px;
 }
+
+@media only screen and (min-width: 385px) and (max-width: 745px) {
+  .photo-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media only screen and (min-width: 746px) {
+  .photo-grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
