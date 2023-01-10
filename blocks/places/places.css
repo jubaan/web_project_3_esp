@@ -1,0 +1,18 @@
+.places {
+  padding: 0 16px;
+  margin: 62px auto 64px;
+}
+
+@media only screen and (min-width: 539px) {
+  .places {
+    padding: 0 24px;
+    margin: 88px auto 92px;
+  }
+}
+
+@media only screen and (min-width: 769px) {
+  .places {
+    padding: 0 148px;
+    margin: 92px auto;
+  }
+}
