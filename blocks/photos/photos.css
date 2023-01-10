@@ -2,3 +2,15 @@
   padding: 0 16px;
   margin: 38px auto 62px;
 }
+
+@media only screen and (min-width: 539px) {
+  .photoss {
+    padding: 0 24px;
+  }
+}
+
+@media only screen and (min-width: 769px) {
+  .photos {
+    padding: 0 48px;
+  }
+}

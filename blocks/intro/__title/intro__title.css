@@ -6,3 +6,10 @@
   letter-spacing: 0em;
   text-align: left;
 }
+
+@media only screen and (min-width: 539px) {
+  .intro__title {
+    font-size: 54px;
+    line-height: 58px;
+  }
+}
