@@ -18,6 +18,7 @@
 @import url("../blocks/photos/photos.css");
 @import url("../blocks/photo-grid/photo-grid.css");
 @import url("../blocks/places/places.css");
+@import url("../blocks/columns/columns.css");
 @import url("../blocks/place/place.css");
 
 @font-face {

@@ -1,0 +1,12 @@
+.columns {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: auto;
+}
+
+@media only screen and (min-width: 539px) {
+  .columns {
+    grid-template-columns: repeat(2, 1fr);
+    margin: 88px auto 92px;
+  }
+}
