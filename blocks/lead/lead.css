@@ -2,3 +2,9 @@
   margin: 50px auto 40px;
   text-align: center;
 }
+
+@media only screen and (min-width: 385px) {
+  .lead {
+    margin: 90px auto 69px;
+  }
+}
